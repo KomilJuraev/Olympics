@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25685" started-at="2018-07-03T17:56:14Z" finished-at="2018-07-03T17:56:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25685" started-at="2018-07-03T17:56:14Z" finished-at="2018-07-03T17:56:40Z">
+      <class name="olympicmedals.OlympicsMedals2016">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="setUp" is-config="true" duration-ms="12804" started-at="2018-07-03T17:56:14Z" finished-at="2018-07-03T17:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_Case_1()[pri:1, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="test_Case_1" duration-ms="522" started-at="2018-07-03T17:56:27Z" finished-at="2018-07-03T17:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Case_1 -->
+        <test-method status="PASS" signature="test_Case_2()[pri:2, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="test_Case_2" duration-ms="7017" started-at="2018-07-03T17:56:28Z" finished-at="2018-07-03T17:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Case_2 -->
+        <test-method status="PASS" signature="test_case_3()[pri:3, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="test_case_3" duration-ms="1138" started-at="2018-07-03T17:56:35Z" finished-at="2018-07-03T17:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_3 -->
+        <test-method status="PASS" signature="test_case_4()[pri:4, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="test_case_4" duration-ms="1025" started-at="2018-07-03T17:56:36Z" finished-at="2018-07-03T17:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_4 -->
+        <test-method status="PASS" signature="test_case_5()[pri:5, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="test_case_5" duration-ms="1052" started-at="2018-07-03T17:56:37Z" finished-at="2018-07-03T17:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case_5 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:olympicmedals.OlympicsMedals2016@6a4f787b]" name="end" is-config="true" duration-ms="2083" started-at="2018-07-03T17:56:38Z" finished-at="2018-07-03T17:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- olympicmedals.OlympicsMedals2016 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
